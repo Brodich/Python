@@ -11,7 +11,7 @@
 # w.close()
 
 # Word=input()
-Flag=0
+Flag = 0
 CountLetter = 0
 LastIndex = 0
 a = 0
